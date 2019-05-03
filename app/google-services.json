@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "869904925965",
+    "firebase_url": "https://onebooked-76b75.firebaseio.com",
+    "project_id": "onebooked-76b75",
+    "storage_bucket": "onebooked-76b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869904925965:android:ad613402d2903a22",
+        "android_client_info": {
+          "package_name": "hanan.hanan_ali.onebooked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869904925965-r42jcd16044ogl72011nnd3k5aqvgt9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTRE1bcirqSlemkHxRQoLsBP1UJFafwtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
